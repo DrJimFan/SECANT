@@ -1,0 +1,5 @@
+jupyterlab
+opencv-python==4.2.0.34
+gym[atari]
+torch
+torchvision
