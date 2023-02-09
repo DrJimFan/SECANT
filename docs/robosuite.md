@@ -12,7 +12,7 @@ All agents are trained with clean background and objects, and evaluated on 3 pro
 
 ## Installation
 
-Please refer to [Installation](https://github.com/wangguanzhi/secant-private#installation).
+Please refer to [Installation](https://github.com/LinxiFan/SECANT#installation).
 
 ## Usage
 

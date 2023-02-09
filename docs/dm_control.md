@@ -7,7 +7,7 @@ We follow the settings in [PAD](https://github.com/nicklashansen/policy-adaptati
 
 ## Installation
 
-Please refer to [Installation](https://github.com/wangguanzhi/secant-private#installation).
+Please refer to [Installation](https://github.com/LinxiFan/SECANT#installation).
 
 ## Usage
 
