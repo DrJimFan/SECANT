@@ -7,14 +7,14 @@ This repository contains the environments in our paper:
 > <b>Linxi "Jim" Fan, Guanzhi Wang, De-An Huang, Zhiding Yu, Li Fei-Fei, Yuke Zhu, Animashree Anandkumar</b><br/>
 
 **Quick Links**:
-[[Project Website](https://linxifan.github.io/secant-site/)]
+[[Project Website](https://drjimfan.github.io/secant-site/)]
 [[Arxiv](http://arxiv.org/abs/2106.09678)]
-[[Demo Video](https://linxifan.github.io/secant-site/assets/videos/secant.mp4)]
+[[Demo Video](https://drjimfan.github.io/secant-site/assets/videos/secant.mp4)]
 [[ICML Page](https://proceedings.mlr.press/v139/fan21c.html)]
 
 ## Abstract
 
-![framework](https://linxifan.github.io/secant-site/assets/images/algorithm.png)
+![framework](https://drjimfan.github.io/secant-site/assets/images/algorithm.png)
 
 Generalization has been a long-standing challenge for reinforcement learning (RL). Visual RL, in particular, can be easily distracted by irrelevant factors in high-dimensional observation space.
 
